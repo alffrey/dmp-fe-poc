@@ -1,0 +1,25 @@
+{
+  "response": {
+    "components": [
+      {
+        "componentName": "Header",
+        "propData": {}
+      },
+      {
+        "componentName": "HeroUnit",
+        "propData": {
+          "title": "Hotels",
+          "shortDesc": "Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don&apos;t simply skip over itentirely."
+        }
+      },
+      {
+        "componentName": "OfferGrid",
+        "propData": {}
+      },
+      {
+        "componentName": "Footer",
+        "propData": {}
+      }
+    ]
+  }
+}
